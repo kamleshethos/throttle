@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Muffin\Throttle\ValueObject;
+namespace Eforce\Throttle\ValueObject;
 
 // phpcs:disable CakePHP.Commenting.FunctionComment
 /**

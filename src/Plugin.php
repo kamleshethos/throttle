@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Muffin\Throttle;
+namespace Eforce\Throttle;
 
 use Cake\Core\BasePlugin;
 

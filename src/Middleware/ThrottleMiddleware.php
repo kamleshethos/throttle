@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Muffin\Throttle\Middleware;
+namespace Eforce\Throttle\Middleware;
 
 use Cake\Cache\Cache;
 use Cake\Core\InstanceConfigTrait;
